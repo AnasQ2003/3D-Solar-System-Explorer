@@ -3,3 +3,7 @@ The 3D Solar System Explorer is a Python-based educational simulation that  visu
 ![image alt](https://github.com/AnasQ2003/3D-Solar-System-Explorer/blob/550a328cab03414dcb24567b05215a61c2e7b2ae/Screenshot%202025-05-21%20164724.png)
 
 ![image alt](https://github.com/AnasQ2003/3D-Solar-System-Explorer/blob/cd159894cd090dc34a600e69bee11f7bc1fe465c/Screenshot%202025-06-08%20165041.png)
+
+![image alt](https://github.com/AnasQ2003/3D-Solar-System-Explorer/blob/3e74ae0ad0b91f267837c243f4cffffb9fad3d35/Screenshot%202025-06-08%20165107.png)
+
+![image alt](https://github.com/AnasQ2003/3D-Solar-System-Explorer/blob/3e74ae0ad0b91f267837c243f4cffffb9fad3d35/Screenshot%202025-06-08%20165148.png)
